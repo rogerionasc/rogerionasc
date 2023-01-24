@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerionasc)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerionasc&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerionasc&show_icons=true&theme=dark)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerionasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://github-stats-alpha.vercel.app/api?username=rogerionasc&cc=000&tc=fff&ic=fff&bc=000
+
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color)
 
 <!--
 **rogerionasc/rogerionasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
