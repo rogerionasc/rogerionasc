@@ -1,4 +1,4 @@
-![Header](Thumbnail-Github/Thumbnail-Github.svg)
+![Header](Thumbnail-Github/Thumbnail-Github.png)
 <br />
 
 ## Skills
