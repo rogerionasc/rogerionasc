@@ -1,25 +1,22 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height:"180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rogerionasc&show_icons=true&theme=dark" /></a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height:"180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" /></a>
+  
+  
+### Framework e Linguagem favorita
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerionasc&show_icons=true&theme=dark)
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerionasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://github-stats-alpha.vercel.app/api?username=rogerionasc&cc=000&tc=fff&ic=fff&bc=000
+<div aling="center">
+<img style="height:3em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color)
 
-<!--
-**rogerionasc/rogerionasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img style="height:3em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      
 
-Here are some ideas to get you started:
+<img style="height:3em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>          
+          
