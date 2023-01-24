@@ -6,7 +6,7 @@
   <img height:"180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&" /></a>
   
   
-### Framework e Linguagem favorita
+### Programming language
 
 
 <div style="display: inline_block"><br>
