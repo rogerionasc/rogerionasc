@@ -8,13 +8,10 @@
   
 ### Framework e Linguagem favorita
 
-<div aling="center">
+<div aling="center" style="display:inline_block">  
+   
 <img style="height:3em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-
-
 <img style="height:3em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-      
-
 <img style="height:3em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
 
