@@ -8,12 +8,10 @@
   
 ### Framework e Linguagem favorita
 
-<div>  
-   
-<img align="center" style="height:3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-<img align="center" style="height:3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="center" style="height:3em;: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
-
-</div>          
+<div style="display: inline_block"><br>
+  <img align="center" alt="rogerionasc-Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="rogerionasc-Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="rogerionasc-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+</div>
           
