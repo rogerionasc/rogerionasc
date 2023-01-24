@@ -26,13 +26,5 @@
 </a>  
 </div>
 
-## Visits
-<br />
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=andreynav&style=for-the-badge&label=PROFILE+VISITS&color=39d353)
-
-</div>
-
 
 
