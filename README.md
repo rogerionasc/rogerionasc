@@ -1,4 +1,4 @@
-![Header](logo/Thumbnail-Githu.png)
+![Header](logo/Thumbnail-Githu.jpg)
 <br />
 
 ## Skills
