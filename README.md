@@ -14,7 +14,7 @@
 ## Statistics
 <br />
 <div align="center">
-<a href="https://github.com/rogerionasc/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" alt="Rogerionasc's Most Used Languages" src="https://github-readme-stats-ubpc-andreynav.vercel.app/api/top-langs/?username=rogerionasc&exclude_repo=[github-readme-stats,petrob,]&layout=compact&langs_count=12&layout=compact&theme=dark&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&card_width=400" />
 </a>
 
