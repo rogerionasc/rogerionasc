@@ -1,4 +1,4 @@
-![Header](logo/Thumbnail-Githu.png)
+![Header](logo/Thumbnail-Github.png)
 <br />
 
 ## Skills
@@ -26,5 +26,5 @@
 </a>  
 </div>
 
-![Footer](logo/Thumbnail-Githu.png)
+![Footer](logo/Footer-Githu.png)
 
