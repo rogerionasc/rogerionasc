@@ -26,5 +26,5 @@
 </a>  
 </div>
 
-![Footer](logo/Footer-Githu.png)
+![Footer](logo/Footer-Github.png)
 
