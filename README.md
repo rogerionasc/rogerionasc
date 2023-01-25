@@ -1,4 +1,4 @@
-![Header](logo/Thumbnail-Github.png)
+![Header](logo/Thumbnail-Githu.png)
 <br />
 
 ## Skills
