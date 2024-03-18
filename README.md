@@ -7,7 +7,7 @@
 	<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="git" />&nbsp;
 	<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" title="php" />&nbsp;
 	<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" title="docker" />&nbsp;
-	<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" title="laravel" />&nbsp;
+	<img height="64" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg)" alt="laravel" title="laravel" />&nbsp;
 </div>
 <br />
 
