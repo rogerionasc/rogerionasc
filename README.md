@@ -9,7 +9,7 @@
 	<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" title="docker" />&nbsp;
 	<img height="64" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" alt="laravel" title="laravel" />&nbsp;
 	<img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" title="vue" />&nbsp;
-	<img height="64" src="https://avatars.githubusercontent.com/u/47702462?s=200&v=4" alt="inertia" title="inertia" style="border-radius:10px" />&nbsp;
+	<img height="64" src="https://github.com/inertiajs.png" alt="inertia" title="inertia" style="border-radius:10px" />&nbsp;
 </div>
 <br />
 
